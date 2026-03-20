@@ -32,6 +32,57 @@ This contract is designed to demonstrate blockchain-based inheritance or asset t
 
 ---
 
+💻 Frontend Preview
+
+The frontend provides a clean interface that allows users to:
+
+Connect their wallet
+
+Interact with the smart contract
+
+Test and explore contract functionality easily
+
+🔗 Repository
+
+👉 View Full Project on GitHub
+
+Add your repository link here:
+
+https://github.com/your-username/your-repository-name
+⚙️ Features
+
+✅ Will and testament contract functionality
+
+🔄 Smart contract interaction through frontend
+
+🔐 Wallet connection with Freighter
+
+📊 Clean and user-friendly UI
+
+🛠️ Tech Stack
+
+Soroban – Smart contract development
+
+Stellar Network – Blockchain infrastructure
+
+Frontend – Web-based interface
+
+Freighter Wallet – Wallet integration
+
+📚 Getting Started
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/your-repository-name
+2️⃣ Navigate to the Project Directory
+cd your-repository-name
+3️⃣ Install Dependencies
+npm install
+4️⃣ Run the Application
+npm run dev
+✨ Author
+
+Developed during the RiseIn Workshop (GDG NIT)
+👨‍💻 Contributor: Archisman Mitra
+
 ## 🪪 Contract Details
 
 **Contract Address:**
