@@ -1,1 +1,1 @@
-# Web-3-Stellar-Contract-DAy-2
+# Web-3-Stellar-Contract-Day-2
