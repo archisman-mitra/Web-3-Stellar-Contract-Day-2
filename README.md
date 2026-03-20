@@ -46,14 +46,17 @@ Interact with the smart contract
 
 Test and explore contract functionality easily
 
-🔗 Repository
+<img width="1838" height="884" alt="image" src="https://github.com/user-attachments/assets/6460f7ef-326b-441b-a0d0-a9add235817e" />
+
+
+## 🔗 Repository
 
 👉 View Full Project on GitHub
 
 Add your repository link here:
 
 https://github.com/your-username/your-repository-name
-⚙️ Features
+## ⚙️ Features
 
 ✅ Will and testament contract functionality
 
@@ -63,7 +66,7 @@ https://github.com/your-username/your-repository-name
 
 📊 Clean and user-friendly UI
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Soroban – Smart contract development
 
@@ -73,7 +76,7 @@ Frontend – Web-based interface
 
 Freighter Wallet – Wallet integration
 
-📚 Getting Started
+## 📚 Getting Started
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/your-repository-name
 2️⃣ Navigate to the Project Directory
