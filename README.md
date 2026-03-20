@@ -32,6 +32,10 @@ This contract is designed to demonstrate blockchain-based inheritance or asset t
 
 ---
 
+## 🪪 Contract Details
+
+**Contract Address:**
+
 💻 Frontend Preview
 
 The frontend provides a clean interface that allows users to:
@@ -83,9 +87,9 @@ npm run dev
 Developed during the RiseIn Workshop (GDG NIT)
 👨‍💻 Contributor: Archisman Mitra
 
-## 🪪 Contract Details
+⭐ Acknowledgment
 
-**Contract Address:**
+Special thanks to RiseIn and GDG NIT for organizing the workshop and providing a hands-on Web3 learning experience.
 
 ```text
 CA3G77TSOYYOYV35TXTQ73ZEFUKNMXFNLW6CKCNYYNYVS4EKGYGDP574
