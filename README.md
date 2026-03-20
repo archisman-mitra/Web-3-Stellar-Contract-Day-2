@@ -57,7 +57,7 @@ Test and explore contract functionality easily
 
 Add your repository link here:
 
-https://github.com/your-username/your-repository-name
+https://github.com/archisman-mitra/Web-3-Stellar-Contract-Day-2
 ## ⚙️ Features
 
 ✅ Will and testament contract functionality
