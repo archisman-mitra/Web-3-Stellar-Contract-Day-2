@@ -81,18 +81,22 @@ Freighter Wallet – Wallet integration
 ## 📚 Getting Started
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/your-repository-name
+---
 2️⃣ Navigate to the Project Directory
 cd your-repository-name
+---
 3️⃣ Install Dependencies
 npm install
+---
 4️⃣ Run the Application
 npm run dev
-✨ Author
+---
+## ✨ Author
 
 Developed during the RiseIn Workshop (GDG NIT)
 👨‍💻 Contributor: Archisman Mitra
 
-⭐ Acknowledgment
+## ⭐ Acknowledgment
 
 Special thanks to RiseIn and GDG NIT for organizing the workshop and providing a hands-on Web3 learning experience.
 
