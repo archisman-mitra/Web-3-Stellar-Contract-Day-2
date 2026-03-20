@@ -93,7 +93,7 @@ npm run dev
 ---
 ## ✨ Author
 
-Developed during the RiseIn Workshop (GDG NIT) \n
+Developed during the RiseIn Workshop (GDG NIT) <br>
 👨‍💻 Contributor: Archisman Mitra
 
 ## ⭐ Acknowledgment
