@@ -32,11 +32,16 @@ This contract is designed to demonstrate blockchain-based inheritance or asset t
 
 ---
 
+## Wallet Details
+
+### Contract Address: 
+CA3G77TSOYYOYV35TXTQ73ZEFUKNMXFNLW6CKCNYYNYVS4EKGYGDP574
+
 ## 🪪 Contract Details
 
 **Contract Address:**
 
-💻 Frontend Preview
+## 💻 Frontend Preview
 
 The frontend provides a clean interface that allows users to:
 
